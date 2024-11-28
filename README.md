@@ -1,6 +1,6 @@
 # 🌟 Proyecto Ejemplo: Mi Increíble Repositorio
 
-![Header](https://via.placeholder.com/1200x400.png?text=Bienvenido+a+Mi+Repositorio)
+![Header](https://www.antevenio.com/wp-content/uploads/2016/04/20-ejemplos-de-banners-creativos.jpg)
 
 Este es un ejemplo de `README.md` con una estructura amigable y visual, ideal para proyectos en GitHub. Aquí encontrarás toda la información necesaria para comenzar a trabajar en este proyecto.
 
